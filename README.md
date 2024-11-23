@@ -5,13 +5,13 @@ Riešenie Python na spracovanie a zber logov + spúšťanie testov
 
 python -u "\cesta\analyzer.py"
 
-Priemerne vyuzitie CPU: ...%
-Cas vykonania: ... sec.
+Priemerne vyuzitie CPU: ...% |
+Cas vykonania: ... sec. |
 Maximalne vyuzitie pamate: ... MB
 
-1 - Analyze podla IP 
-2 - Analyza casovych intervalov 
-3 - Vyhladavanie podla key?...=... 
+1 - Analyze podla IP |
+2 - Analyza casovych intervalov |
+3 - Vyhladavanie podla key?...=... | 
 4 - Exit
 
 ------------------------------------
