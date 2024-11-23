@@ -17,7 +17,7 @@ Maximalne vyuzitie pamate: ... MB
 ------------------------------------
 Po spustení dôjde k automatickému meraniu času, CPU a pamäte. A potom bude používateľovi k dispozícii ďalšie funkcie:
 
-Analyze podla IP -> používateľ systému môže zapísať IP adresu
-Analyza casovych intervalov -> od ..... aj do ..... , vo formate napriklad: 19/May/2015:12:05:59 +0000
-Vyhladavanie podla key -> kluc=hodnota, parameter pre web vyhladavanie
-Exit -> ak pouzivatel nepotrebuje dalsie funkcie
+1) Analyze podla IP -> používateľ systému môže zapísať IP adresu
+2) Analyza casovych intervalov -> od ..... aj do ..... , vo formate napriklad: 19/May/2015:12:05:59 +0000
+3) Vyhladavanie podla key -> kluc=hodnota, parameter pre web vyhladavanie
+4) Exit -> ak pouzivatel nepotrebuje dalsie funkcie
