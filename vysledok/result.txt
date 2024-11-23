@@ -1,0 +1,92 @@
+Celkovy pocet ziadosti: 9999
+Top 10 IP adries (najvacsi):
+- 66.249.73.135 | 482 krat
+- 46.105.14.53 | 364 krat
+- 130.237.218.86 | 357 krat
+- 75.97.9.59 | 273 krat
+- 50.16.19.13 | 113 krat
+- 209.85.238.199 | 102 krat
+- 68.180.224.225 | 99 krat
+- 100.43.83.137 | 84 krat
+- 208.115.111.72 | 83 krat
+- 198.46.149.143 | 82 krat
+-------------------------------------
+Top 10 IP adries (najmensi):
+- 24.236.252.67 | 1 krat
+- 123.125.71.35 | 1 krat
+- 50.150.204.184 | 1 krat
+- 200.49.190.100 | 1 krat
+- 87.169.99.232 | 1 krat
+- 121.107.188.202 | 1 krat
+- 174.37.205.76 | 1 krat
+- 24.233.162.179 | 1 krat
+- 123.125.71.117 | 1 krat
+- 220.181.108.153 | 1 krat
+Dalsie ip ktore boly len 1 krat: 670
+-------------------------------------
+Stav:
+- HTTP 200 | 9125 krat
+- HTTP 404 | 213 krat
+- HTTP 304 | 445 krat
+- HTTP 301 | 164 krat
+- HTTP 206 | 45 krat
+- HTTP 500 | 3 krat
+- HTTP 403 | 2 krat
+- HTTP 416 | 2 krat
+-------------------------------------
+User-Agent:
+- Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36 | 1044 krat
+- Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.91 Safari/537.36 | 369 krat
+- UniversalFeedParser/4.2-pre-314-svn +http://feedparser.org/ | 364 krat
+- Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0 | 296 krat
+- Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) | 271 krat
+- Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36 | 268 krat
+- Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html) | 237 krat
+- Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) Gecko/20100101 Firefox/27.0 | 236 krat
+- Mozilla/5.0 (X11; Linux x86_64; rv:27.0) Gecko/20100101 Firefox/27.0 | 229 krat
+- Tiny Tiny RSS/1.11 (http://tt-rss.org/) | 198 krat
+-------------------------------------
+Presmerovania zo stranok:
+- http://semicomplete.com/presentations/logstash-puppetconf-2012/ | 689 krat
+- http://www.semicomplete.com/projects/xdotool/ | 656 krat
+- http://semicomplete.com/presentations/logstash-scale11x/ | 406 krat
+- http://www.semicomplete.com/articles/dynamic-dns-with-dhcp/ | 335 krat
+- http://www.semicomplete.com/ | 228 krat
+- http://www.semicomplete.com/style2.css | 200 krat
+- http://semicomplete.com/ | 164 krat
+- http://semicomplete.com/presentations/logstash-monitorama-2013/ | 148 krat
+- http://www.semicomplete.com/blog/geekery/ssl-latency.html | 144 krat
+- http://semicomplete.com/presentations/logstash-1/ | 123 krat
+-------------------------------------
+Unikatne IP + URL:
+46.105.14.53 -> /blog/tags/puppet?flav=rss20 | 364 ziadosti
+50.16.19.13 -> /blog/tags/puppet?flav=rss20 | 113 ziadosti
+208.91.156.11 -> /files/logstash/logstash-1.3.2-monolithic.jar | 60 ziadosti
+198.46.149.143 -> /blog/geekery/disabling-battery-in-ubuntu-vms.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+semicomplete%2Fmain+%28semicomplete.com+-+Jordan+Sissel%29 | 41 ziadosti
+198.46.149.143 -> /blog/geekery/solving-good-or-bad-problems.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+semicomplete%2Fmain+%28semicomplete.com+-+Jordan+Sissel%29 | 41 ziadosti
+128.118.108.67 -> /favicon.ico | 32 ziadosti
+66.249.73.135 -> /?flav=atom | 31 ziadosti
+66.249.73.135 -> /?flav=rss20 | 31 ziadosti
+209.85.238.199 -> /?flav=rss20 | 31 ziadosti
+66.249.73.135 -> /blog/tags/firefox?flav=rss20 | 30 ziadosti
+209.85.238.199 -> /?flav=atom | 28 ziadosti
+-------------------------------------
+Method:
+- GET | 9951 krat
+- HEAD | 42 krat
+- POST | 5 krat
+- OPTIONS | 1 krat
+-------------------------------------
+Stav aj web (404):
+- 404 -> /files/logstash/logstash-1.3.2-monolithic.jar | 61 krat
+- 404 -> /presentations/logstash-puppetconf-2012/images/office-space-printer-beat-down-gif.gif | 32 krat
+- 404 -> /wp-login.php | 6 krat
+- 404 -> /wp-login.php?action=register | 6 krat
+- 404 -> /blog/wp-admin/ | 6 krat
+- 404 -> /wp-admin/ | 6 krat
+-------------------------------------
+Stav aj web (505):
+Neexistuje chyb na strane Servera
+-------------------------------------
+Chybny pocet riadkov | 1
+['46.118.127.106 - - [20/May/2015:12:05:17 +0000] "GET /scripts/grok-py-test/configlib.py HTTP/1.1" 200 235 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html\n']
